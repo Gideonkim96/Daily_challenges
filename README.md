@@ -26,8 +26,11 @@ This repository contains daily Java programming challenges for practice and inte
 
 ------
 👨‍💻 Author
+
 Gideon Rono
+
 💼 Java Backend Developer | 💡 Microservices | 🔁 Spring Boot
+
 🔗 GitHub: https://github.com/Gideonkim96
 -----
 
