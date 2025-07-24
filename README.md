@@ -24,7 +24,12 @@ This repository contains daily Java programming challenges for practice and inte
 | 16            | Rotate an Array                        | `RotateArray.java`           |
 | 17            | Reverse Each Word in a Sentence        | `ReverseWords.java`          |
 
----
+------
+👨‍💻 Author
+Gideon Rono
+💼 Java Backend Developer | 💡 Microservices | 🔁 Spring Boot
+🔗 GitHub: https://github.com/Gideonkim96
+-----
 
 ## 🚀 How to Run
 
