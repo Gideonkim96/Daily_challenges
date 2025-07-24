@@ -17,7 +17,7 @@ public class Duplicates {
 //        System.out.println("Enter the Integers");
 //        int[] arr = scanner.nextLine();
         int[] arr = {1, 2, 3, 2, 4, 1, 5};
-        int length = arr.length;;
+        int length = arr.length;
 
         for(int i=0;i< length; i++) {
             for (int j=0; j< length; j++){
